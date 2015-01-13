@@ -1,4 +1,31 @@
-When DATE, TIME
+
+----------
+- Victim -
+----------
+DATE
+TIME
+Lighting: [Night, Dawn, Dusk]
 Where (Country, State, Town)
-Setting (street, institution (if so which one)
-Lighting
+Setting examples:[street,Highway,mall,church,school,parking lot,workplace,home]
+Violence: [Verbal, Physical, Coercion]
+Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
+Sexual Assault: type:[]
+Your Race
+Age
+Gender
+Birth Gender Known by assailants
+Sexual Preference
+What activity: example:[walking,working, street sexwork,hitchhiking,hiking]
+Income
+Profession example:[IT,Cashier]
+Who were you with: [Friends, Assailants, aquantances, passers by, alone]
+What were you wearing
+Height
+eye color
+hair color
+
+
+----------------
+- Assailant[s] -
+----------------
+Do you know your assailant:
