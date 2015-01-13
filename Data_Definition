@@ -18,8 +18,12 @@ Violence: [Verbal, Physical, Coercion, Threats]
 Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
 Sexual Assault: type:[]
 Media examples:[video,photos,emails,reports]
+Apparent Motivation: [racism,religous bigotry,theft]
+Things Stolen
+Identifying markings of stolen property
+Result: [Trauma, death, injury]
+Hospitalization or Medical Treatment:
 Long Description:
-
 --------------
 - Assailants -
 --------------
@@ -35,7 +39,6 @@ If group Distinguishing features of the group?
 ------------------------------------------------------------------------
 -                          Begin  Victim                               -
 ------------------------------------------------------------------------
-
 ---------------------
 - Victim attributes -
 ---------------------
@@ -46,16 +49,19 @@ Race
 Religion
 Birth Gender Known by assailant[s]
 Sexual Preference
+Disability:
 What activity: example:[walking,working, street sexwork,hitchhiking,hiking]
 Income
-Profession example:[IT,Cashier]
+Profession [IT,Cashier]
 Who were you with: [Friends, Assailants, aquantances, passers by, alone]
 What were you wearing
+Clothing color
+Clothing style
 Height
 eye color
 hair color
 weight
-
+Media:
 -------------
 - Anonymity -
 -------------
@@ -64,6 +70,8 @@ Victim ID:
 Can the details of this incident be reported upon ?
 Will your assailants be looking for reports ?
 Will the government of your country be looking for reports ?
+Will LE be looking for reports ?
+Might you be persecuted for reporting ?
 Can we report the Town of the incident ?
 Can we report the state of the incident ?
 Can we report the country of the incident ?
@@ -97,7 +105,6 @@ tattoos
 identifying features ?
 were they wearing any symbols
 What weapons did they have
-Do they carry weapons ?
 Identifying features
 Group or gang affiliation ?
 When did you last see this assailant
@@ -108,10 +115,34 @@ Was the assailant a Government official or Law Enforcement,
 Was the assailant a professional with power - 
     minister, social worker, psychologist, teacher, school principle 
 Long Description of Assailant:
-
+Media:
 -----------------------------------------------------------------------
 -                               End Assailant                         -
 -----------------------------------------------------------------------
 
 
+
+-----------------------------------------------------------------------
+-                     Begin Law Enforcement Reports                   -
+-----------------------------------------------------------------------
+LE Report ID
+Incident ID
+Name of Investigator[s]
+Badge Number[s]
+Agency Name
+Agency Address
+Agency City
+Agency County
+Agency State
+Agency Country
+Date of report
+Time of report
+Did they Take the report ?
+Were they respectful ?
+Were you injured by LE ?
+
+
+-----------------------------------------------------------------------
+-                       End Law Enforcement Reports                   -
+-----------------------------------------------------------------------
 
