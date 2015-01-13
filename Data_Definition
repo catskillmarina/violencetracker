@@ -2,19 +2,23 @@
 -------------------------------------------------------------------------
 -                              Begin The incident                       -
 -------------------------------------------------------------------------
-DATE
-TIME
-Address
-Town
-County
-State
-Country
+Incident ID: Automated
+Victim ID: Automated
+DATE:
+TIME:
+Address:
+Town:
+County:
+Zip or Postal Code:
+State:
+Country:
 Lighting: [Night, Dawn, Dusk]
-Setting examples:[street,subway,Highway,mall,church,school,parking lot,workplace,home]
+Setting examples:[street,subway,Highway,mall,church,school,parking lot,workplace,home,internet]
 Violence: [Verbal, Physical, Coercion, Threats]
 Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
 Sexual Assault: type:[]
 Media examples:[video,photos,emails,reports]
+Long Description:
 
 --------------
 - Assailants -
@@ -35,11 +39,12 @@ If group Distinguishing features of the group?
 ---------------------
 - Victim attributes -
 ---------------------
+Victim ID
 Age
 Gender
 Race
 Religion
-Birth Gender Known by assailants
+Birth Gender Known by assailant[s]
 Sexual Preference
 What activity: example:[walking,working, street sexwork,hitchhiking,hiking]
 Income
@@ -49,22 +54,30 @@ What were you wearing
 Height
 eye color
 hair color
+weight
 
 -------------
 - Anonymity -
 -------------
+Anonymity Degree ID
+Victim ID:
 Can the details of this incident be reported upon ?
 Will your assailants be looking for reports ?
+Will the government of your country be looking for reports ?
+Can we report the Town of the incident ?
+Can we report the state of the incident ?
+Can we report the country of the incident ?
 
 ------------------------------------------------------------------------
 -                             End Victim                               -
 ------------------------------------------------------------------------
 
 
-
--------------
-- Assailant -
--------------
+-----------------------------------------------------------------------
+-                             Begin Assailant                         -
+-----------------------------------------------------------------------
+Assailant ID
+Incident ID
 Do you know your assailant:
 Name
 Alias or Nickname
@@ -73,7 +86,6 @@ Town
 County 
 State
 Country
-Can you describe the assailant ?
 Where does the assailant hang out ?
 Assailants known associates ?
 race
@@ -89,4 +101,17 @@ Do they carry weapons ?
 Identifying features
 Group or gang affiliation ?
 When did you last see this assailant
-Was the assailant a member of Law Enforcement, Jail guard or border guard ?
+Profession
+Income
+Was the assailant a Government official or Law Enforcement, 
+    example: Jail guard or border guard ?
+Was the assailant a professional with power - 
+    minister, social worker, psychologist, teacher, school principle 
+Long Description of Assailant:
+
+-----------------------------------------------------------------------
+-                               End Assailant                         -
+-----------------------------------------------------------------------
+
+
+
