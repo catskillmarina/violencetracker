@@ -1,7 +1,7 @@
 
------------------------
-- Setting of Violence -
------------------------
+----------------
+- The incident -
+----------------
 DATE
 TIME
 Address
@@ -10,7 +10,7 @@ County
 State
 Country
 Lighting: [Night, Dawn, Dusk]
-Setting examples:[street,Highway,mall,church,school,parking lot,workplace,home]
+Setting examples:[street,subway,Highway,mall,church,school,parking lot,workplace,home]
 Violence: [Verbal, Physical, Coercion]
 Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
 Sexual Assault: type:[]
@@ -18,9 +18,9 @@ Sexual Assault: type:[]
 ----------
 - Victim -
 ----------
-Your Race
 Age
 Gender
+Race
 Religion
 Birth Gender Known by assailants
 Sexual Preference
@@ -33,17 +33,44 @@ Height
 eye color
 hair color
 
+-------------
+- Anonymity -
+-------------
+Can the details of this incident be reported upon ?
+Will your assailants be looking for reports ?
 
-----------------
-- Assailant[s] -
-----------------
-Do you know your assailant[s]:
+--------------
+- Assailants -
+--------------
+How many were there ?
+Were they a member of any identifyable group ?
+Distinguishing features ?
+
+-------------
+- Assailant -
+-------------
+Do you know your assailant:
+Name
+Alias or Nickname
+Address
+Town
+County 
+State
+Country
+Can you describe the assailant ?
+Where does the assailant hang out ?
+Assailants known associates ?
 race
 age
 Religion
 Height
 What were they wearing
-Identifying tattoos
+tattoos
+identifying features ?
 were they wearing any symbols
 What weapons did they have
-
+Do they carry weapons ?
+Identifying features
+Group or gang affiliation ?
+When did you last see this assailant
+Was the assailant a member of Law Enforcement, Jail guard or border guard ?
