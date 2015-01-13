@@ -2,8 +2,8 @@
 -------------------------------------------------------------------------
 -                              Begin The incident                       -
 -------------------------------------------------------------------------
-Incident ID: Automated
-Victim ID: Automated
+Incident ID: Automated Hidden
+Victim ID: Automated Hidden
 DATE:
 TIME:
 Address:
@@ -13,7 +13,7 @@ Zip or Postal Code:
 State:
 Country:
 Lighting: [Night, Dawn, Dusk]
-Setting examples:[street,subway,Highway,mall,church,school,parking lot,workplace,home,internet]
+Setting examples:[street,subway,Highway,mall,church,school,parking lot,workplace,home,internet,social media]
 Violence: [Verbal, Physical, Coercion, Threats]
 Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
 Sexual Assault: type:[]
@@ -42,7 +42,24 @@ If group Distinguishing features of the group?
 ---------------------
 - Victim attributes -
 ---------------------
-Victim ID
+Victim ID: Automated Hidden
+------------------
+- Begin Optional -
+------------------
+Name
+Preferred Name
+Aliases or Nicknames
+Address
+Home Phone
+Cell Phone
+Fax
+Social Media Links: facebook:name,twitter:@name
+Email
+Messengers [irc:freenode.org/channel/nickname,google:googleaddress]
+websites
+----------------
+- End Optional -
+----------------
 Age
 Gender
 Race
@@ -61,12 +78,11 @@ Height
 eye color
 hair color
 weight
-Media:
+Media evidence:
 -------------
 - Anonymity -
 -------------
-Anonymity Degree ID
-Victim ID:
+Anonymity Degree ID: Automated Hidden
 Can the details of this incident be reported upon ?
 Will your assailants be looking for reports ?
 Will the government of your country be looking for reports ?
@@ -75,7 +91,6 @@ Might you be persecuted for reporting ?
 Can we report the Town of the incident ?
 Can we report the state of the incident ?
 Can we report the country of the incident ?
-
 ------------------------------------------------------------------------
 -                             End Victim                               -
 ------------------------------------------------------------------------
@@ -84,8 +99,8 @@ Can we report the country of the incident ?
 -----------------------------------------------------------------------
 -                             Begin Assailant                         -
 -----------------------------------------------------------------------
-Assailant ID
-Incident ID
+Assailant ID: Automated, Hidden
+Incident ID: Automated, Hidden
 Do you know your assailant:
 Name
 Alias or Nickname
@@ -94,6 +109,17 @@ Town
 County 
 State
 Country
+Name
+Preferred Name
+Aliases or Nicknames
+Address
+Home Phone
+Cell Phone
+Fax
+Social Media Links: facebook:name,twitter:@name
+Email
+Messengers [irc:freenode.org/channel/nickname,google:googleaddress]
+websites
 Where does the assailant hang out ?
 Assailants known associates ?
 race
@@ -115,7 +141,7 @@ Was the assailant a Government official or Law Enforcement,
 Was the assailant a professional with power - 
     minister, social worker, psychologist, teacher, school principle 
 Long Description of Assailant:
-Media:
+Media evidence:
 -----------------------------------------------------------------------
 -                               End Assailant                         -
 -----------------------------------------------------------------------
@@ -125,8 +151,8 @@ Media:
 -----------------------------------------------------------------------
 -                     Begin Law Enforcement Reports                   -
 -----------------------------------------------------------------------
-LE Report ID
-Incident ID
+LE Report ID: Automated, Hidden
+Incident ID: Automated, Hidden
 Name of Investigator[s]
 Badge Number[s]
 Agency Name
@@ -139,9 +165,7 @@ Date of report
 Time of report
 Did they Take the report ?
 Were they respectful ?
-Were you injured by LE ?
-
-
+Were they thorough ?
 -----------------------------------------------------------------------
 -                       End Law Enforcement Reports                   -
 -----------------------------------------------------------------------
