@@ -1,18 +1,27 @@
 
-----------
-- Victim -
-----------
+-----------------------
+- Setting of Violence -
+-----------------------
 DATE
 TIME
+Address
+Town
+County
+State
+Country
 Lighting: [Night, Dawn, Dusk]
-Where (Country, State, Town)
 Setting examples:[street,Highway,mall,church,school,parking lot,workplace,home]
 Violence: [Verbal, Physical, Coercion]
 Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
 Sexual Assault: type:[]
+
+----------
+- Victim -
+----------
 Your Race
 Age
 Gender
+Religion
 Birth Gender Known by assailants
 Sexual Preference
 What activity: example:[walking,working, street sexwork,hitchhiking,hiking]
@@ -28,4 +37,13 @@ hair color
 ----------------
 - Assailant[s] -
 ----------------
-Do you know your assailant:
+Do you know your assailant[s]:
+race
+age
+Religion
+Height
+What were they wearing
+Identifying tattoos
+were they wearing any symbols
+What weapons did they have
+
