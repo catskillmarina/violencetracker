@@ -1,7 +1,7 @@
 
-----------------
-- The incident -
-----------------
+-------------------------------------------------------------------------
+-                              Begin The incident                       -
+-------------------------------------------------------------------------
 DATE
 TIME
 Address
@@ -16,9 +16,25 @@ Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
 Sexual Assault: type:[]
 Media examples:[video,photos,emails,reports]
 
-----------
-- Victim -
-----------
+--------------
+- Assailants -
+--------------
+How many were there ?
+Were they a member of any identifyable group ?
+If group Distinguishing features of the group?
+-------------------------------------------------------------------------
+-                             End The incident                          -
+-------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------
+-                          Begin  Victim                               -
+------------------------------------------------------------------------
+
+---------------------
+- Victim attributes -
+---------------------
 Age
 Gender
 Race
@@ -40,12 +56,11 @@ hair color
 Can the details of this incident be reported upon ?
 Will your assailants be looking for reports ?
 
---------------
-- Assailants -
---------------
-How many were there ?
-Were they a member of any identifyable group ?
-Distinguishing features ?
+------------------------------------------------------------------------
+-                             End Victim                               -
+------------------------------------------------------------------------
+
+
 
 -------------
 - Assailant -
