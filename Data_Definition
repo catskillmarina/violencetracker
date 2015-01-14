@@ -24,6 +24,7 @@ Identifying markings of stolen property
 Result: [Trauma, death, injury]
 Hospitalization or Medical Treatment:
 Long Description:
+credibility: [0-10]
 --------------
 - Assailants -
 --------------
@@ -79,6 +80,8 @@ eye color
 hair color
 weight
 Media evidence:
+credibility: [0-10]
+Comments:
 -------------
 - Anonymity -
 -------------
@@ -144,6 +147,8 @@ Was the assailant a professional with power -
     minister, social worker, psychologist, teacher, school principle 
 Long Description of Assailant:
 Media evidence:
+credibility: [0-10]
+Comments:
 -----------------------------------------------------------------------
 -                               End Assailant                         -
 -----------------------------------------------------------------------
@@ -168,6 +173,9 @@ Time of report
 Did they Take the report ?
 Were they respectful ?
 Were they thorough ?
+credibility: [0-10]
+Media: [Copies of the police or other official report]
+Comments:
 -----------------------------------------------------------------------
 -                       End Law Enforcement Reports                   -
 -----------------------------------------------------------------------
