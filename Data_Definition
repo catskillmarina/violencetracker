@@ -2,35 +2,35 @@
 -------------------------------------------------------------------------
 -                              Begin The incident                       -
 -------------------------------------------------------------------------
-Incident ID: Automated Hidden
-Victim ID: Automated Hidden
+Incident_ID: <Automated Hidden>
+Victim_ID: <Automated Hidden>
 DATE:
 TIME:
 Address:
 Town:
 County:
-Zip or Postal Code:
+Zip_or_Postal_Code:
 State:
 Country:
 Lighting: [Night, Dawn, Dusk]
-Setting examples:[street,subway,Highway,mall,church,school,parking lot,workplace,home,internet,social media]
-Violence: [Verbal, Physical, Coercion, Threats]
-Weapons:  type:[firearm:[long,short,shotgun]],club:type[],blade:type[]]
-Sexual Assault: type:[]
-Media examples:[video,photos,emails,reports]
-Apparent Motivation: [racism,religous bigotry,theft]
-Things Stolen
-Identifying markings of stolen property
-Result: [Trauma, death, injury]
-Hospitalization or Medical Treatment:
-Long Description:
+Setting: [street,subway,Highway,mall,church,school,parking lot,workplace,home,internet,social media]
+Violence: <Multiple Possible> [Verbal, Physical, Coercion, Threats]
+Weapons:  <Multiple Possible> [long gun,knife,short gun]
+Sexual_Assault_Type: <Multiple Possible> [rape,groping,indecent exposure,other]
+Media <Multiple Possible> [video,photos,emails,reports]
+Apparent_Motivation: <Multiple Possible> [racism,religous bigotry,theft]
+Things_Stolen: <Multiple Possible>
+    Identifying_markings_stolen_property:
+Result: <multiple possible> [Trauma, death, injury, lost property, lost time]
+Hospitalization_Medical_Treatment: <multiple possible>
+Long_Description:
 credibility: [0-10]
 --------------
 - Assailants -
 --------------
-How many were there ?
-Were they a member of any identifyable group ?
-If group Distinguishing features of the group?
+How_many:
+assailant_group:
+group_distinguishing_features: <multiple possible>
 -------------------------------------------------------------------------
 -                             End The incident                          -
 -------------------------------------------------------------------------
@@ -43,49 +43,48 @@ If group Distinguishing features of the group?
 ---------------------
 - Victim attributes -
 ---------------------
-Victim ID: Automated Hidden
+Victim ID: <Automated Hidden>
 ------------------
 - Begin Optional -
 ------------------
-Name
-Preferred Name
-Aliases or Nicknames
-Address
-Home Phone
-Cell Phone
-Fax
-Social Media Links: facebook:name,twitter:@name
-Email
-Messengers [irc:freenode.org/channel/nickname,google:googleaddress]
-websites
+Name:
+Preferred_Name:
+Aliases_or_Nicknames: <multiple possible>
+Address:
+Home_Phone: <multiple possible> 
+Cell_Phone: <multiple possible>
+Fax:
+Social_Media:  <multiple possible> [facebook:name,twitter:@name]
+Email: <multiple possible>
+Messengers: <multiple possible> 
+Relevant_Websites: <multiple possible>
 ----------------
 - End Optional -
 ----------------
-Age
-Gender
-Race
-Religion
-Birth Gender Known by assailant[s]
-Sexual Preference
+Age:
+Gender:
+Race:
+Religion:
+Sexual_Preference:
 Disability:
-What activity: example:[walking,working, street sexwork,hitchhiking,hiking]
-Income
-Profession [IT,Cashier]
-Who were you with: [Friends, Assailants, aquantances, passers by, alone]
-What were you wearing
-Clothing color
-Clothing style
-Height
-eye color
-hair color
-weight
-Media evidence:
+What_activity: [walking,working, street sexwork,hitchhiking,hiking]
+Income:
+Profession:
+Who_were_you_with: [Friends, Assailants, aquantances, passers by, alone]
+What_were_you_wearing: [Description]
+Clothing_color:
+Clothing_styl:
+Height:
+eye_color:
+hair_color:
+weight:
+Media_evidence: <multiple possible>
 credibility: [0-10]
 Comments:
 -------------
 - Anonymity -
 -------------
-Anonymity Degree ID: Automated Hidden
+Anonymity Degree_ID: Automated Hidden
 Can the details of this incident be reported upon ?
 Will your assailants be looking for reports ?
 Will the government of your country be looking for reports ?
