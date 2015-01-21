@@ -4,8 +4,10 @@
 -------------------------------------------------------------------------
 Incident_ID: <Automated Hidden>
 Victim_ID: <Automated Hidden>
-DATE:
-TIME:
+DATE_Of_Report:
+TIME_Of_Report:
+Date_Of_Incident:
+Time_Of_Incident:
 Address:
 Town:
 County:
@@ -31,6 +33,19 @@ credibility: [0-10]
 How_many:
 assailant_group:
 group_distinguishing_features: <multiple possible>
+-------------
+- Anonymity -
+-------------
+Anonymize_details:
+Will_assailants_be_looking_for_reports:
+Will_a_government_be_looking_for_reports:
+Will_LE_be_looking_for_reports:
+persecution_for_reporting: 
+Anonymize_name:
+Can_personal_info_be_shared_with_trusted_individuals: [y/n]
+Anonymise_Town: [y|n]
+Anonymise_State: [r|n]
+Anonymise_Country: [y|n]
 -------------------------------------------------------------------------
 -                             End The incident                          -
 -------------------------------------------------------------------------
@@ -73,7 +88,7 @@ Profession:
 Who_were_you_with: [Friends, Assailants, aquantances, passers by, alone]
 What_were_you_wearing: [Description]
 Clothing_color:
-Clothing_styl:
+Clothing_style:
 Height:
 eye_color:
 hair_color:
@@ -85,16 +100,16 @@ Comments:
 - Anonymity -
 -------------
 Anonymity Degree_ID: Automated Hidden
-Can the details of this incident be reported upon ?
-Will your assailants be looking for reports ?
-Will the government of your country be looking for reports ?
-Will LE be looking for reports ?
-Might you be persecuted for reporting ?
-Can your name be reported ?
-Can your name be shared with trusted individuals ?
-Can we report the Town of the incident ?
-Can we report the state of the incident ?
-Can we report the country of the incident ?
+Anonymize_details:: [y|n]
+Will_your_assailants_be_looking_for_you: [y|n]
+Will_the_government_be_looking_for_reports: [y|n]
+Will_LE_be_looking_or_reports:: [y|n]
+persecution_for_reporting: : [y|n]
+Anonymize_name:: [y|n]
+Can_personal_info_be_shared_with_trusted_individuals: [y/n]
+Anonymise_Town: [y|n]
+Anonymise_State: [r|n]
+Anonymise_Country: [y|n]
 ------------------------------------------------------------------------
 -                             End Victim                               -
 ------------------------------------------------------------------------
@@ -103,49 +118,47 @@ Can we report the country of the incident ?
 -----------------------------------------------------------------------
 -                             Begin Assailant                         -
 -----------------------------------------------------------------------
-Assailant ID: Automated, Hidden
-Incident ID: Automated, Hidden
-Do you know your assailant:
-Name
-Alias or Nickname
-Address
-Town
-County 
-State
-Country
-Name
-Preferred Name
-Aliases or Nicknames
-Address
-Home Phone
-Cell Phone
-Fax
-Social Media Links: facebook:name,twitter:@name
-Email
-Messengers [irc:freenode.org/channel/nickname,google:googleaddress]
-websites
-Where does the assailant hang out ?
-Assailants known associates ?
-race
-age
-Religion
-Height
-What were they wearing
-tattoos
-identifying features ?
-were they wearing any symbols
-What weapons did they have
-Identifying features
-Group or gang affiliation ?
-When did you last see this assailant
-Profession
-Income
-Was the assailant a Government official or Law Enforcement, 
-    example: Jail guard or border guard ?
-Was the assailant a professional with power - 
-    minister, social worker, psychologist, teacher, school principle 
-Long Description of Assailant:
-Media evidence:
+Assailant_ID: {Automated, Hidden}
+Incident ID: {Automated, Hidden}
+Assailant_Known: [y|n]
+Name:
+Aliases_or_Nickname: <multiple possible>
+Address: <multiple possible>
+    Town: 
+    County:
+    State:
+    Postal_Or_Zip:
+    Country:
+Name:
+Preferred_Name:
+Address:
+Home_Phone: <multiple possible>
+Cell_Phone: <multiple possible>
+Fax:
+Social_Media: [facebook:name,twitter:@name]
+Email:
+Messengers: <multiple possible> [irc:freenode.org/channel/nickname]
+websites: <multiple possible>
+Where_does_the_assailant_hang_out: <multiple possible>
+Assailants_known_associates: <multiple possible>
+    Race:
+    Age:
+    Religion:
+    Height:
+    What_were_they_wearing:
+    tattoos: <multiple possible>
+    identifying_features: <multiple possible>
+    were_they_wearing_any_symbols: <multiple possible>
+    Weapons_used: <multiple possible>
+    Identifying_features:
+    Group_or_gang_affiliation:
+    last_seen: [date:time]
+    Profession:
+    Income:
+    Assailant_is_a_Government_official_or_Cop: [Type of cop/official]
+    Assailant_in_position_of_authority: [minister,psychologist,principle]
+    Long_Description:
+Media_evidence: <multiple possible>
 credibility: [0-10]
 Comments:
 -----------------------------------------------------------------------
@@ -157,23 +170,25 @@ Comments:
 -----------------------------------------------------------------------
 -                     Begin Law Enforcement Reports                   -
 -----------------------------------------------------------------------
-LE Report ID: Automated, Hidden
-Incident ID: Automated, Hidden
-Name of Investigator[s]
-Badge Number[s]
-Agency Name
-Agency Address
-Agency City
-Agency County
-Agency State
-Agency Country
-Date of report
-Time of report
-Did they Take the report ?
-Were they respectful ?
-Were they thorough ?
+LE_Report_ID: <Automated, Hidden>
+Incident_ID: <Automated, Hidden>
+Name_of_Investigator: <Multiple possible>
+    Badge_Number:
+Agency_Name:
+Agency_Address:
+Agency_City:
+Agency_County:
+Agency_State:
+Agency_Country:
+Date:
+Time:
+Date_of_report:
+Time_of_report:
+Did_they_Take_the_report: [y|n]
+respectful [0-10]
+thorough [0-10]
 credibility: [0-10]
-Media: [Copies of the police or other official report]
+Media: <multiple possible> [Copies of the police or other official report]
 Comments:
 -----------------------------------------------------------------------
 -                       End Law Enforcement Reports                   -
